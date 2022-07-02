@@ -3,7 +3,6 @@
 pandas
 pydot
 scipy ~= 1.5.2
-tf-nightly
 portpicker
 pyyaml
 Pillow
@@ -11,3 +10,4 @@ numpy ~= 1.21.4  # Sync with the numpy version used in TF
 black==22.3.0
 isort==5.10.1
 flake8==4.0.1
+tf-nightly
